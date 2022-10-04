@@ -1,4 +1,4 @@
-# Simle Space
+# Simple Space
 Workspace with web-server, php, mariadb, node
 
 ## 1. Install project
