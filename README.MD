@@ -6,7 +6,7 @@ Workspace with web-server, php, mariadb, node
 
 Clone the repository
 
-`git clone https://github.com/jurapro/flex-space`
+`git clone https://github.com/jurapro/apache-php-mysql-node`
 
 ## 2. Project settings
 *Note: settings are in .env file*
